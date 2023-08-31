@@ -8,6 +8,3 @@ For the project Shell Scripting, below are he steps we used in execution;
 
 We used gitbash to display our outcome and vi as our command editor.
 Every screenshot below has the script written in vi and the outcome displayed ushing gitbash
-![$() command substitution command script](https://github.com/General-Philip/SHELL-SCRIPTING-PROJECT-5/assets/141147192/8131b985-8576-4b4d-939d-cd15dfe30049)
-![$() command substitution outcome](https://github.com/General-Philip/SHELL-SCRIPTING-PROJECT-5/assets/141147192/f197f4da-063b-4754-9b0a-185894e739b2)
-![Backtick command substitution outcome](https://github.com/General-Philip/SHELL-SCRIPTING-PROJECT-5/assets/141147192/c4633499-6088-47e5-81fb-41c7a25609ce)
